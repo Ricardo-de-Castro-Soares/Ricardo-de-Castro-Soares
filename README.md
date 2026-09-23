@@ -1,9 +1,11 @@
-## Olá👋
+# Olá, eu sou o Ricardo! 👋
 
-Meu nome é Ricardo e sou estudante de programação.
+🎓 **Formação:** Cursando Técnico em Desenvolvimento de Sistemas no SENAI CIMATEC (2º Semestre).
 
-Atualmente, estou focado em desenvolver minha **lógica de programação** por meio de exercícios práticos.
+🛠️ **Linguagens e Tecnologias:**
+- **Atualmente estudando:** Java (POO), Banco de Dados (SQL) e Modelagem de Sistemas.
+- **Bases e Conhecimentos:** C++, Lógica de Programação, Eletrônica Básica & Arduino.
 
-Tenho conhecimentos em **C++** e, em breve, pretendo iniciar meus estudos em **Python**, buscando evoluir continuamente na área de tecnologia.
+🎯 **Foco:** Resolução de problemas através do código e evolução contínua no desenvolvimento de software.
 
-Esse é o exercício utilizando meu conhecimento em Lógica de programação e C++ até o momento: [Clique aqui](https://github.com/Ricardo-de-Castro-Soares/calculadora-operacoes-basicas-e-tabuada)
+📫 **Contato:** [LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI)
