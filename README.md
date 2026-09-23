@@ -1,4 +1,4 @@
-# Olá, eu sou o Ricardo! 👋
+# Olá, eu sou Ricardo! 👋
 
 🎓 **Formação:** Cursando Técnico em Desenvolvimento de Sistemas no SENAI CIMATEC (2º Semestre).
 
