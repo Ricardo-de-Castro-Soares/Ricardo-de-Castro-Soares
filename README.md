@@ -8,4 +8,4 @@
 
 🎯 **Foco:** Resolução de problemas através do código e evolução contínua no desenvolvimento de software.
 
-📫 **Contato:** [LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI)
+📫 **Contato:** [LinkedIn](www.linkedin.com/in/ricardodecastrosoares)
